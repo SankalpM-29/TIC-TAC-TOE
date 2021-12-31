@@ -15,7 +15,7 @@ Link for it - [Python](https://www.python.org/downloads/)
 
 ## Running Tests
 
-Keep both files in the same folder. Open the folder in terminal and then type the follwing command.
+Keep both files in the same folder. Open the folder in terminal and then type the following command.
 
 ```
 python game.py
