@@ -23,6 +23,7 @@ class HumanPlayer(Player):
         super().__init__(letter)
         self.name = input(f"Enter name for player with marker '{self.letter}': ")
 
+    # to get the value of next position from the player
     def get_move(self, game):
         valid_square = False
         val = None
